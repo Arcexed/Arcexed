@@ -14,7 +14,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1C9DEB)](https://twitter.com/ArcexLyn)
 
 
-![Arcexed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcexed&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcexed&layout=compact)
-![Arcexed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arcex)]
+![Arcexed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcexed&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcexed&layout=compact&theme=dark)
+![Arcexed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arcex&theme=dark)
 
